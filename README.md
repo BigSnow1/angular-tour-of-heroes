@@ -2,7 +2,10 @@
 
 [![Build Status](https://travis-ci.org/BigSnow1/angular-tour-of-heroes.svg?branch=master)](https://travis-ci.org/BigSnow1/angular-tour-of-heroes)
 
-angular studying
+##Introduction
+
+This is my practice of the tutorial of angular named angular-tour-of-heroes.
+You can see how it works below.
 
 Here's a visual idea of where this tutorial leads, beginning with the "Dashboard" view and the most heroic heroes:
 
@@ -30,4 +33,14 @@ Here's the app in action:
 
 [![Image text](https://github.com/BigSnow1/angular-tour-of-heroes/blob/master/img-storage/toh-anim.gif)](https://github.com/BigSnow1/angular-tour-of-heroes/blob/master/img-storage/toh-anim.gif)
 
+
+##How to use
+If you want to clone and run this repository,you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+```bash
+#Clone this repository
+git clone https://github.com/BigSnow1/angular-tour-of-heroes.git
+#Go into the repository
+cd angular-tour-of-heroes
+#Install dependencies and run the app
+npm install && npm start
 
